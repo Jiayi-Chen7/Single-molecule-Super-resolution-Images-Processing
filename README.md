@@ -1,2 +1,16 @@
 # Single-molecule-Super-resolution-Images-Processing
-This repository contains codes for image processing of single-molecule mRNAs in Drosophila embryos, related to manuscript "mRNA concentration–dependent translation enables rapid and sharp patterning in resource-constrained Drosophila embryos".
+This repository contains codes for image processing of two ends of individual single-molecule mRNAs imaged by STED super-resolution microscope in two separate channels in Drosophila embryos. This code also calculates this end-to-end distance of each mRNA. This code is related to manuscript "mRNA concentration–dependent translation enables rapid and sharp patterning in resource-constrained Drosophila embryos".
+
+## 1. Running the codes
+* Add the related "Function" folder to the search path of current session.
+* Run `.m` files with "Main" in filename.
+* Add input images in the same path of "Main" file or add the folder containing input images to the search path.
+* Codes are MATLAB files (MATLAB R2020a) and can be run on MATLAB software.
+
+## 2. Citation
+Please cite the following paper:
+Chen, Jiayi, et al. "mRNA concentration–dependent translation enables rapid and sharp patterning in resource constraint Drosophila embryos." bioRxiv (2026): 2026-06.
+
+## 3. Contact Information
+- Jiayi Chen (jiayi.chen@pku.edu.cn)
+- Feng Liu (liufeng@hebut.edu.cn)
