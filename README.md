@@ -1,4 +1,4 @@
-# Single-molecule-Super-resolution-Images-Processing
+# mRNA-End-to-end-Distance-Measurement-Super-resolution
 This repository contains codes for image processing of two ends of individual single-molecule mRNAs imaged by STED super-resolution microscope in two separate channels in Drosophila embryos. This code also calculates this end-to-end distance of each mRNA. This code is related to manuscript "mRNA concentration–dependent translation enables rapid and sharp patterning in resource-constrained Drosophila embryos".
 
 ## 1. Running the codes
